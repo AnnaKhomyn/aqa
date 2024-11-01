@@ -1,0 +1,14 @@
+{
+  "name": "intro-to-js",
+  "version": "1.0.0",
+  "description": "My first steps into JS",
+  "main": "nodeBasics/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anna Khomyn",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
